@@ -11,7 +11,7 @@
 然后在 build.gradle(Module:app) 的 dependencies 添加:
 
     dependencies {
-             compile 'com.github.windouxp:citysdk:0.2'
+             compile 'com.github.windouxp:citysdk:0.5'
     }
 
 作者：窦晓宇
