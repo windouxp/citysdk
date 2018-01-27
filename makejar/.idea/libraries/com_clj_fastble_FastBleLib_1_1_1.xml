@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.clj.fastble:FastBleLib-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bluetoothblis/build/intermediates/exploded-aar/com.clj.fastble/FastBleLib/1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/bluetoothblis/build/intermediates/exploded-aar/com.clj.fastble/FastBleLib/1.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clj.fastble/FastBleLib/1.1.1/6faab14cca3c2a402798b937b4e73c455ba552e0/FastBleLib-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
